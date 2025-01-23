@@ -10,7 +10,7 @@ body {
     padding: 0;
   }
   
-body p{
+body p, li{
   font-family: Roboto, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #blogPosts{
@@ -410,6 +410,7 @@ body.light-theme .aboutme p{
 }
 .tab-column ul li span{
     color: rgb(221, 20, 20);
+    font-size: 20px;
     font-weight: bold;
     font-family: roboto, Cambria;
 }
